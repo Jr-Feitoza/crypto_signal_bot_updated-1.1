@@ -1,0 +1,30 @@
+# Arquivos de ambiente virtual
+venv/
+.env
+*.env
+
+# Arquivos de sessão do Telethon
+*.session
+*.session-journal
+
+# Dados gerados
+*.json
+*.csv
+mensagens_telegram.json
+
+# Pycache e compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Editor/IDE (VSCode, PyCharm etc.)
+.vscode/
+.idea/
+*.swp
+
+# Backup temporário
+*~
